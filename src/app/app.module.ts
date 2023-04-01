@@ -16,7 +16,7 @@ import { ContactoComponent } from './contacto/contacto.component';
     ConocimientosComponent,
     Proyecto1Component,
     Proyecto2Component,
-    ContactoComponent
+    ContactoComponent,
   ],
   imports: [
     BrowserModule,

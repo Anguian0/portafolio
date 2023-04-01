@@ -8,10 +8,10 @@ import { Proyecto2Component } from './proyecto2/proyecto2.component';
 
 const routes: Routes = [
   { path: '', component: InicioComponent },
-  { path: 'Conocimientos', component: ConocimientosComponent },
-  { path: 'Proyecto1', component: Proyecto1Component },
-  { path: 'Proyecto2', component: Proyecto2Component },
-  { path: 'Contacto', component: ContactoComponent },
+  { path: 'conocimientos', component: ConocimientosComponent },
+  { path: 'proyecto1', component: Proyecto1Component },
+  { path: 'proyecto2', component: Proyecto2Component },
+  { path: 'contacto', component: ContactoComponent },
 ];
 
 @NgModule({
