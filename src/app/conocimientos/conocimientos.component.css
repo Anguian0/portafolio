@@ -1,6 +1,5 @@
-span {
+/* span {
     display: block;
-    /* font-family: monospace; */
     white-space: nowrap;
     border-right: 4px solid;
     width: 13ch;
@@ -10,8 +9,6 @@ span {
     overflow: hidden;
 }
 .typi {
-    /* display: flex; */
-    /* font-family: monospace; */
     white-space: nowrap;
     border-right: 4px solid;
     width: 10ch;
@@ -31,4 +28,4 @@ span {
     50% {
         border-color: transparent;
     }
-}
+} */
