@@ -29,3 +29,17 @@
         border-color: transparent;
     }
 } */
+
+
+/* Para quitar la barra de scroll */
+* {
+    overflow: hidden;
+  }
+
+  @media (min-width: 425px) {
+    * {
+      overflow: visible;
+    }
+  }
+  
+  
