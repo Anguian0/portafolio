@@ -36,7 +36,7 @@
     overflow: hidden;
   }
 
-  @media (min-width: 425px) {
+  @media (min-width: 300px) {
     * {
       overflow: visible;
     }
