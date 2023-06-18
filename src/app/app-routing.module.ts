@@ -9,6 +9,7 @@ import { Proyecto3Component } from './proyecto3/proyecto3.component';
 import { Proyecto6Component } from './proyecto6/proyecto6.component';
 import { Proyecto4Component } from './proyecto4/proyecto4.component';
 import { Proyecto5Component } from './proyecto5/proyecto5.component';
+import { Proyecto7Component } from './proyecto7/proyecto7.component';
 
 const routes: Routes = [
   { path: '', component: InicioComponent },
@@ -19,6 +20,7 @@ const routes: Routes = [
   { path: 'proyecto4', component: Proyecto4Component },
   { path: 'proyecto5', component: Proyecto5Component },
   { path: 'proyecto6', component: Proyecto6Component },
+  { path: 'proyecto7', component: Proyecto7Component },
   { path: 'contacto', component: ContactoComponent },
 ];
 

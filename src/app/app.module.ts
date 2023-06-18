@@ -12,6 +12,7 @@ import { Proyecto3Component } from './proyecto3/proyecto3.component';
 import { Proyecto4Component } from './proyecto4/proyecto4.component';
 import { Proyecto5Component } from './proyecto5/proyecto5.component';
 import { Proyecto6Component } from './proyecto6/proyecto6.component';
+import { Proyecto7Component } from './proyecto7/proyecto7.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { Proyecto6Component } from './proyecto6/proyecto6.component';
     Proyecto4Component,
     Proyecto5Component,
     Proyecto6Component,
+    Proyecto7Component,
   ],
   imports: [
     BrowserModule,
